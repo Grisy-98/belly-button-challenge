@@ -52,7 +52,7 @@ function buildCharts(sample) {
     let bubbleLayout = {
       title: "Bacteria Cultures Per Sample",
       height: 600,
-      width: 1000
+      width: 1200
     };
     
     // Render the Bubble Chart
