@@ -12,4 +12,4 @@ If you cannot click on the link, try to copy and paste the link.
 
 https://rawcdn.githack.com/Grisy-98/belly-button-challenge/6b59cc17330c02caa16d27b3f3b74934ab370fe6/index.html 
 
-To create this link, I copied and pasted the 
+To create this link, I went to the site raw.githack.com and then I copied and pasted the permalink of the index.html. By doing that, the site generates a link where the html is shown without needing to download the code and then run the html locally. 
